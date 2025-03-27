@@ -1,6 +1,6 @@
 # 二进制宇宙论的严格形式化定义 [核心理论版本号：1.0]
 
-[中文](formal_theory_binary_core.md) | [English](formal_theory_binary_core_en.md)
+**[中文版]** | [English Version](formal_theory_binary_core_en.md)
 
 ## 导航
 

@@ -1,6 +1,6 @@
 # Formal Definition of Binary Universe Theory [Core Theory Version: 1.0]
 
-[中文](formal_theory_binary_core.md) | [English](formal_theory_binary_core_en.md)
+[中文版](formal_theory_binary_core.md) | **[English Version]**
 
 ## Navigation
 
